@@ -1,6 +1,6 @@
 /*****************************************************************************
  *AUTHOR  	 	: Patrick Wilson
- *PROJECT 		: Loops & Boolean Expressions
+ *PROJECT #		: Loops & Boolean Expressions
  *DATE	 		: 12/3/18
 ******************************************************************************/
 
